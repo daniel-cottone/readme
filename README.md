@@ -34,7 +34,9 @@ As an engineering lead, I am both an individual contributor as well as a people 
 > It begins with the natural feeling that one wants to serve, to serve first. Then conscious choice brings one to aspire to lead.
 
 My philisophy as a leader is to serve the needs of those I lead. I believe the most important thing I can do as a leader is to grow, nuture,
-and elevate others; in fact this is my responsibility.
+and elevate others; in fact this is my responsibility. I value your feedback, as I hope that you value mine; if I am not serving you as best
+I could and falling short in some way, please let me know! I am not perfect and am always looking to improve, and your best interests are
+also mine.
 
 > A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong. While traditional leadership generally involves the accumulation and exercise of power by one at the “top of the pyramid,” servant leadership is different. The servant-leader shares power, puts the needs of others first and helps people develop and perform as highly as possible.
 
