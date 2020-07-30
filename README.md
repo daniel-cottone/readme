@@ -29,12 +29,14 @@ As an engineering lead, I am both an individual contributor as well as a people 
 
 ### Servant leadership
 
-[From Wikipedia](https://en.wikipedia.org/wiki/Servant_leadership):
+[From Robert K. Greenleaf](https://www.greenleaf.org/what-is-servant-leadership/):
 
-> Servant leadership is a leadership philosophy in which the main goal of the leader is to serve. This is different from traditional leadership where the leader's main focus is the thriving of their company or organizations. A Servant Leader shares power, puts the needs of the employees first and helps people develop and perform as highly as possible.
+> It begins with the natural feeling that one wants to serve, to serve first. Then conscious choice brings one to aspire to lead.
 
-My philisophy as a leader is to serve the needs of those I lead. I believe the most impactful thing I can do as a leader is to grow, nuture,
-and elevate others.
+My philisophy as a leader is to serve the needs of those I lead. I believe the most important thing I can do as a leader is to grow, nuture,
+and elevate others; in fact this is my responsibility.
+
+> A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong. While traditional leadership generally involves the accumulation and exercise of power by one at the “top of the pyramid,” servant leadership is different. The servant-leader shares power, puts the needs of others first and helps people develop and perform as highly as possible.
 
 ### Mentorship
 
@@ -45,6 +47,8 @@ From William Arthur Ward:
 Mentorship is the most impactful activity a software engineer can engage in. A good mentor has a multiplicative effect within an
 organization. The most productive, prolific, and brilliant engineer may create amazing, useful, and impactful work. A brilliant mentor will
 create brilliant engineers. You do the math!
+
+My goal is to be a mentor to you, and to instill in you the value of mentorship by example.
 
 ### Product mindset
 
