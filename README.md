@@ -42,8 +42,9 @@ From William Arthur Ward:
 
 > The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.
 
-Mentorship is the most impactful activity a software engineer can engage in. The most productive, prolific, and brilliant engineer may create
-amazing, useful, and impactful work. A brilliant mentor will create brilliant engineers. You do the math!
+Mentorship is the most impactful activity a software engineer can engage in. A good mentor has a multiplicative effect within an
+organization. The most productive, prolific, and brilliant engineer may create amazing, useful, and impactful work. A brilliant mentor will
+create brilliant engineers. You do the math!
 
 ### Product mindset
 
